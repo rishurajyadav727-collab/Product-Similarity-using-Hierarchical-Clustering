@@ -1,0 +1,6 @@
+{
+  "name": "Clustr India - E-Commerce Product Similarity & Hierarchical Clustering",
+  "description": "Interactive hierarchical agglomerative clustering and dendrogram analysis for Indian e-commerce catalogs (Amazon India, Flipkart, Myntra, Tata CLiQ), category purity auditing, and substitute detection in ₹ INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
